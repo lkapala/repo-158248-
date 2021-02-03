@@ -1,6 +1,6 @@
 # repo-158248-
 **Autorem repozytorium jest Łukasz Kapała**
-_Projekt zawiera:_
+## Projekt zawiera ##
 * dokumentację 
 * pliki nagłówkowe i źródłowe 
 * plik README.md
